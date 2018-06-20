@@ -1,0 +1,11 @@
+.tictac {
+  width: 256px;
+  margin: 0 auto; }
+
+.tictac__item {
+  width: 80px;
+  height: 80px;
+  background-color: bisque;
+  border: 1px solid black;
+  float: left;
+  margin: 1px; }
